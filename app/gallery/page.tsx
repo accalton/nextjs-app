@@ -1,7 +1,7 @@
 export default function Page() {
     return (
         <main>
-            Image Gallery
+            <h1>Image Gallery</h1>
         </main>
     );
 }
